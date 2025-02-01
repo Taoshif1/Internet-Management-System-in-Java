@@ -1,0 +1,9 @@
+
+package taoshiflex.internetmanagementsystem;
+
+public class InternetManagementSystem {
+
+    public static void main(String[] args) {
+         new HomePage();
+    }
+}
