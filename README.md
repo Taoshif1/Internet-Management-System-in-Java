@@ -37,8 +37,7 @@ The Internet Management System is a Java-based software designed to efficiently 
 🔹 AI-powered usage predictions                                                                       
 🔹 Mobile-friendly version                                               
 
-🤝 Contributing
-Want to contribute? Feel free to fork this repo, make improvements, and submit a pull request! 🚀                            
+🤝 Want to contribute? Feel free to fork this repo, make improvements and submit a pull request! 🚀                            
 
 📩 Contact                                                                                        
 👤 Gazi Taoshif                                                                                      
