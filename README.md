@@ -25,11 +25,11 @@ Java & java Swing
       java Main  
 
 
-📌 Usage
-💠Open the application and log in as an administrator/user.
-💠View real-time internet usage statistics.
-💠Manage users and allocate bandwidth accordingly.
-💠Generate usage reports for better insights.
+📌 Usage                                                                                                                                   
+💠Open the application and log in as an administrator/user.                                                  
+💠View real-time internet usage statistics.                                                  
+💠Manage users and allocate bandwidth accordingly.                                                             
+💠Generate usage reports for better insights.                  
 💠Test internet speed.
 💠Contact us.
 
