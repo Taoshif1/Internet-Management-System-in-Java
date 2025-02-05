@@ -29,12 +29,12 @@ The Internet Management System is a Java-based software designed to efficiently 
 💠View real-time internet usage statistics.                                                  
 💠Manage users and allocate bandwidth accordingly.                                                             
 💠Generate usage reports for better insights.                  
-💠Test internet speed.
+💠Test internet speed.                                           
 💠Contact us.
 
-🎯 Future Improvements
-🔹 Cloud-based data storage                             
-🔹 AI-powered usage predictions                                                 
+🎯 Future Improvements                               
+🔹 Cloud-based data storage                                                   
+🔹 AI-powered usage predictions                                                                       
 🔹 Mobile-friendly version                                               
 
 🤝 Contributing
