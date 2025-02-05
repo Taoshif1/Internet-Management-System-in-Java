@@ -40,10 +40,10 @@ The Internet Management System is a Java-based software designed to efficiently 
 🤝 Contributing
 Want to contribute? Feel free to fork this repo, make improvements, and submit a pull request! 🚀                            
 
-📩 Contact
-👤 Gazi Taoshif
-📧 Email: taoshif2@gmail.com
-🔗 LinkedIn: [www.linkedin.com/in/gazi-taoshif-a914581a8]
+📩 Contact                                                                                        
+👤 Gazi Taoshif                                                                                      
+📧 Email: taoshif2@gmail.com                                                                                           
+🔗 LinkedIn: [www.linkedin.com/in/gazi-taoshif-a914581a8]                                          
 
 ##Screenshots
 
