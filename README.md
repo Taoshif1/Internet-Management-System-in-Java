@@ -1,7 +1,7 @@
 # Internet-Management-System-in-Java
 A Java-based solution for efficient internet usage management
 
-#🚀 About the Project
+🚀 About the Project                                                                                                                                                
 The Internet Management System is a Java-based software designed to efficiently monitor, track and manage internet usage. It helps individuals, businesses and organizations optimize bandwidth allocation and enhance network performance.
 
 🎯 Features                                                                                                        
